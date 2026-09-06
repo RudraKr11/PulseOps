@@ -47,8 +47,8 @@ Ensure Docker and Docker Compose are installed on your machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/<your-username>/PulseOps.git
+   cd PulseOps
    ```
 
 2. **Start all services with a single command**:
