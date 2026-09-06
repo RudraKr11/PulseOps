@@ -1,0 +1,26 @@
+# Node & Frontend dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+
+# SQLite Database (generated on first run)
+*.db
+backend/tasks.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
